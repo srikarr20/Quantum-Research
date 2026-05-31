@@ -11,7 +11,7 @@ Quantum-Research
 
 ## Research Evolution
 
-Imprint Hypothesis
+Early Conceptual Framework
         ↓
 Detector-Plane Imaging
         ↓

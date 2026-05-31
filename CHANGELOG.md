@@ -29,7 +29,7 @@ Initial unified research portfolio consolidation.
 
 ### Archived
 
-- The Imprint Hypothesis
-- Imprint Field papers
+- Historical framework papers
+- Early conceptual publications
 - Legacy publication drafts
 - Historical conceptual artifacts

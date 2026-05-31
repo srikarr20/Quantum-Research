@@ -59,8 +59,8 @@ Contents:
 
 The archive preserves earlier conceptual work including:
 
-- The Imprint Hypothesis
-- Imprint Field papers
+- Historical framework papers
+- Early conceptual publications
 - Legacy drafts
 - Historical publication artifacts
 
