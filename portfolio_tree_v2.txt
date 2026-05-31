@@ -1,0 +1,74 @@
+.
+├── active
+├── archive
+│   ├── imprint-hypothesis
+│   │   ├── Imprint_Hypothesis_Handout.pdf
+│   │   └── The Imprint Hypothesis.pdf
+│   ├── journal-submission-history
+│   │   ├── A Field-First Interpretation of Wave-Particle Duality (1).docx
+│   │   ├── A Field-First Interpretation of Wave-Particle Duality (1).pdf
+│   │   └── ChatGPT Image May 31, 2026, 07_55_09 AM copy.png
+│   ├── legacy-dpi-drafts
+│   └── legacy-qmctb-drafts
+├── CHANGELOG.md
+├── detector-plane-causality
+│   ├── handout
+│   │   └── Detector Plane Causality_Handout.pdf
+│   ├── paper
+│   │   └── Detector-Plane_Causality_in_Quantum_Measurement - RSI -mupdated - Approval.pdf
+│   ├── reviews
+│   └── submission
+│       ├── Manuscript.docx
+│       ├── Marked-up Manuscript.docx
+│       └── Response Letter.docx
+├── detector-plane-imaging
+│   ├── figures
+│   ├── paper
+│   │   ├── Detector-Plane Imaging (DPI) - An Instrumentation - Grounded Measurement - Plane Framework.pdf
+│   │   └── Detector-Plane Imaging (DPI)- An Instrumentation - Grounded Measurement - Plane Framework.docx
+│   ├── repository
+│   │   └── detector-plane-imaging
+│   ├── runtime
+│   │   ├── core
+│   │   ├── docs
+│   │   ├── dpi-runtime-phase9
+│   │   ├── outputs
+│   │   ├── phase10_tree.txt
+│   │   ├── programs
+│   │   ├── qccr_runtime_tree.txt
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   └── tools
+│   └── zenodo
+├── field-first-interpretation
+│   ├── handout
+│   │   ├── A Field-First Interpretation of Wave-Particle Duality - Handout .pdf
+│   │   └── A Field-First Interpretation of Wave-Particle Duality - Handout.docx
+│   ├── infographic
+│   │   └── Field First - Wave - Particle - Duality.png
+│   └── preprint
+│       ├── A Field-First Interpretation of Wave-Particle Duality.docx
+│       └── A Field-First Interpretation of Wave-Particle Duality.pdf
+├── foundations
+│   ├── concepts
+│   ├── future-work
+│   └── notes
+├── INVENTORY.md
+├── portfolio_tree_v2.txt
+├── PORTFOLIO_VERSION.md
+├── quantum-measurement-stack
+│   ├── qmctb-01
+│   ├── qmctb-02
+│   │   ├── QMCTB_Paper_v4_Zenodo.docx
+│   │   └── QMCTB_Paper_v4_Zenodo.pdf
+│   ├── qmctb-03
+│   │   ├── QMCTB03_final.docx
+│   │   └── zenodo_full_with_figure.pdf
+│   ├── qmctb-04
+│   └── repositories
+│       ├── quantum-measurement-stack
+│       └── quantum-measurement-stack-demo
+├── README.md
+└── RESEARCH_MAP.md
+
+41 directories, 31 files
