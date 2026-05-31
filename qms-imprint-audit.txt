@@ -1,0 +1,46 @@
+Binary file quantum-measurement-stack/repositories/quantum-measurement-stack/quantum-measurement-stack-main.zip matches
+quantum-measurement-stack/repositories/quantum-measurement-stack/README.md:58:- **imprint/** — Pre-measurement imprint field dynamics (observer-free)
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:6:incoming imprint field are preserved, transformed, or irreversibly destroyed
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:21:- how detector architecture couples to the imprint field,
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:31:Given a **coherent imprint field** as input, this layer determines:
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:37:Different detector architectures interacting with the same imprint field may
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:46:access correlations present in the imprint field.
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:52:imprint field to be expressed in the output signal.
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:74:- the imprint field may remain physically coherent,
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:87:architectures interacting with the same imprint field yield different
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:93:A coherent imprint field formed by two path imprints contains spatial phase
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:102:A two-photon imprint field contains precise timing and phase correlations at a
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:111:An imprint field contains polarization or momentum entanglement.
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:120:A coherent atomic imprint field contains phase correlations accumulated along
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:128:whether coherence present in the imprint field becomes observable.
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:148:- **Input**: a coherent imprint field from Imprint Field Dynamics.
+quantum-measurement-stack/repositories/quantum-measurement-stack/detector/README.md:161:- Identical imprint fields may yield different outcomes under different
+quantum-measurement-stack/repositories/quantum-measurement-stack/diagnostics/README.md:89:- imprint or propagation physics,
+quantum-measurement-stack/repositories/quantum-measurement-stack/QMCTB-01_v1.0_Freeze_and_Custody.md:52:The benchmark boundary is fixed at the **detector plane**, defined as the complete measurement pipeline from physical signal imprint through classical data record generation.
+quantum-measurement-stack/repositories/quantum-measurement-stack/daq/README.md:27:occurred. It does not couple directly to the imprint field.
+quantum-measurement-stack/repositories/quantum-measurement-stack/daq/README.md:85:- imprint or propagation physics,
+quantum-measurement-stack/repositories/quantum-measurement-stack/qcs/README.md:40:QCS does not access the imprint field, detector physics, or DAQ directly.
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/QMCTB-01-Methods.md:45:4. Stage 1: Imprint Field Dynamics (Pre-Measurement)
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/QMCTB-01-Methods.md:57:A coherent imprint field at the detector plane.
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/QMCTB-01-Methods.md:63:This stage defines how the detector couples to the incoming imprint field.
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/QMCTB-01-Methods.md:65:Two detector models are evaluated against the same imprint field:
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/QMCTB-01.md:62:| Imprint Field Dynamics | Generation of coherent superposition via two paths |
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/QMCTB-01.md:81:This ensures an identical imprint field across all runs.
+quantum-measurement-stack/repositories/quantum-measurement-stack/qmctb/README.md:74:1. Imprint Field Dynamics  
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:1:# Imprint Field Dynamics
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:3:Imprint Field Dynamics defines the pre-measurement physical substrate of the
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:5:and boundary conditions generate structured information (imprints) in
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:15:An **imprint** is a physically generated structure in a field arising from
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:19:Imprints:
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:36:- How do boundaries (slits, cavities, potentials) shape imprint formation?
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:37:- How do multiple imprints overlap or interfere under unitary evolution?
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:51:The following standard quantum systems illustrate imprint formation governed
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:52:purely by physical dynamics. In all cases, the imprint exists independently of
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:58:structure constitutes a coherent imprint field prior to any screen or sensor.
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:62:field imprints with precise temporal and phase correlations. The resulting
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:67:Relative phase accumulated along two internal paths is imprinted into the
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:73:transmitted imprints with correlated momentum and phase structure.
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:77:or guided-mode imprints that persist as structured field configurations.
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:79:These examples remain entirely within Imprint Field Dynamics: all structure
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:86:The output of this layer is a **coherent imprint field**.
+quantum-measurement-stack/repositories/quantum-measurement-stack/imprint/README.md:93:- **Quantum Operating System (QOS)** manages imprint usage, refresh, and
