@@ -1,0 +1,13 @@
+Research
+ ↓
+Infrastructure
+ ↓
+Validation
+ ↓
+Assessment
+ ↓
+Revenue
+ ↓
+Assets
+ ↓
+Growth
