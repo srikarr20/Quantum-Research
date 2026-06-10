@@ -1,17 +1,33 @@
 # EVIDENCE-000
 
-Repository: Qiskit Aer
+## Audit Target
 
-Commit:
-dbe57abb2e919f3ad25676d6c51b4f24be966b30
+Qiskit Aer
 
-Audit Date:
+## Repository
+
+https://github.com/Qiskit/qiskit-aer
+
+## Commit
+
+837c3ef3c39248aae936580360c22224dcefb265
+
+## Audit Date
+
 2026-06-10
 
-Status:
+## Status
+
 Frozen audit target
 
-Purpose:
-QMVA audit of information retention,
-projection boundaries,
-and measurement-layer visibility.
+## Purpose
+
+QMVA audit of:
+
+- information retention
+- projection boundaries
+- measurement-layer visibility
+
+## Notes
+
+Audit performed against a frozen repository state.
