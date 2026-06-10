@@ -8,3 +8,4 @@
 | QMVA-04 | PennyLane | Planned |
 | QMVA-05 | Amazon Braket | Planned |
 
+- EVIDENCE-012 Detector-Plane Classification Boundary (QMVA-03)
