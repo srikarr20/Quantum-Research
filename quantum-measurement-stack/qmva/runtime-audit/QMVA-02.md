@@ -1,21 +1,42 @@
 # QMVA-02
 
-Target:
+## Target
+
 IBM Runtime
 
-Objective:
+## Objective
 
-Determine how information visibility changes
-between:
+Determine how information visibility changes between:
 
-Qiskit Aer
+Aer
     ↓
-IBM Runtime
+Runtime Primitives
     ↓
 Cloud Execution
     ↓
 User Result Objects
 
-Status:
-Planned
+## Audit Questions
+
+Q1.
+Which Aer-visible information survives Runtime?
+
+Q2.
+Which state representations disappear?
+
+Q3.
+Where do projection boundaries occur?
+
+Q4.
+Where do packaging boundaries occur?
+
+Q5.
+Which metadata survive execution?
+
+Q6.
+Can conditional or per-shot information be recovered?
+
+## Evidence Log
+
+Pending
 
