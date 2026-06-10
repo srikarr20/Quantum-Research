@@ -4,39 +4,100 @@
 
 IBM Runtime
 
+## Status
+
+In Progress
+
 ## Objective
 
-Determine how information visibility changes between:
+Determine how information visibility changes
+between local simulator execution and
+Runtime-mediated execution.
+
+---
+
+## Findings
+
+### Finding 01
+
+Runtime preserves the primitive result model:
+
+    DataBin
+        ↓
+    PubResult
+        ↓
+    PrimitiveResult
+
+Observed in:
+
+- qiskit_ibm_runtime/utils/json.py
+- executor_sampler/converters.py
+- executor_estimator/post_processor_v0_1.py
+
+---
+
+### Finding 02
+
+Runtime serializes and reconstructs
+primitive result containers.
+
+Observed:
+
+- PrimitiveResult
+- PubResult
+- DataBin
+
+This introduces a transport layer between
+execution and user visibility.
+
+---
+
+### Finding 03
+
+Runtime uses BitArray-based measurement
+containers.
+
+Observed:
+
+- BitArray
+- DataBin
+
+within Runtime result handling.
+
+---
+
+### Finding 04
+
+No explicit "pershot" references have been
+identified within Runtime source.
+
+This contrasts with Aer, where pershot=True
+is explicitly supported for multiple save
+instructions.
+
+---
+
+## Working Model
 
 Aer
-    ↓
-Runtime Primitives
-    ↓
-Cloud Execution
-    ↓
-User Result Objects
 
-## Audit Questions
+    Rich State
+        ↓
+    DataBin
+        ↓
+    PubResult
+        ↓
+    PrimitiveResult
 
-Q1.
-Which Aer-visible information survives Runtime?
+Runtime
 
-Q2.
-Which state representations disappear?
-
-Q3.
-Where do projection boundaries occur?
-
-Q4.
-Where do packaging boundaries occur?
-
-Q5.
-Which metadata survive execution?
-
-Q6.
-Can conditional or per-shot information be recovered?
-
-## Evidence Log
-
-Pending
+    PrimitiveResult
+        ↓
+    Serialization
+        ↓
+    Transport
+        ↓
+    Reconstruction
+        ↓
+    User Result
 
