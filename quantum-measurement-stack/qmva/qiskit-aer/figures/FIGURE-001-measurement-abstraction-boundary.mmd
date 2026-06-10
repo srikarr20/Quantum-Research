@@ -1,0 +1,26 @@
+flowchart TD
+
+    A[Physical Backend]
+    B[Calibration Data]
+    C[prob_meas1_prep0<br/>prob_meas0_prep1]
+    D[ReadoutError Matrix]
+    E[Simulation Output]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+
+    subgraph QMVA Finding
+        F[Detector Architecture]
+        G[Electronics]
+        H[ADC]
+        I[Firmware]
+        J[DAQ]
+    end
+
+    F -. Hidden .-> C
+    G -. Hidden .-> C
+    H -. Hidden .-> C
+    I -. Hidden .-> C
+    J -. Hidden .-> C
