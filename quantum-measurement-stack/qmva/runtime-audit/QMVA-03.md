@@ -195,3 +195,32 @@ Interpretation:
 Detector-plane visibility and measurement
 fidelity exhibit a strong positive relationship.
 
+
+---
+
+### FINDING-08
+
+The dominant information-compression boundary
+occurs at threshold-based classification.
+
+Evidence:
+
+EVIDENCE-016
+
+Measured:
+
+Detector Entropy = 6.8411 bits
+
+Binary Entropy   = 1.0000 bit
+
+Compression Ratio = 0.1462
+
+Information Loss = 85.38%
+
+Interpretation:
+
+Approximately 85.4% of detector-plane
+representation entropy is removed when
+continuous detector measurements are
+converted into binary outcomes.
+
