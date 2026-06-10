@@ -165,3 +165,33 @@ IQ coordinates.
 User-visible outcomes consist of binary
 state assignments.
 
+
+---
+
+### FINDING-07
+
+Visibility Retention Index (VRI) and
+Quantum Non-Demolition Fidelity (QNDFid)
+decrease together across the frequency sweep.
+
+Evidence:
+
+EVIDENCE-015
+
+Measured:
+
+0 Hz
+
+    VRI     = 0.95203
+    QNDFid  = 0.91445
+
+1000 Hz
+
+    VRI     = 0.76013
+    QNDFid  = 0.69235
+
+Interpretation:
+
+Detector-plane visibility and measurement
+fidelity exhibit a strong positive relationship.
+
