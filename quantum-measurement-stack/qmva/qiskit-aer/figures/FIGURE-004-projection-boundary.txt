@@ -1,0 +1,27 @@
+Aer Core
+│
+├── Statevector
+├── Density Matrix
+├── Amplitudes
+├── Probabilities
+├── Expectation Values
+├── Conditional States
+└── Per-Shot States
+         │
+         ▼
+ ┌─────────────────┐
+ │ Primitive APIs  │
+ └─────────────────┘
+         │
+ ┌───────┴────────┐
+ │                │
+ ▼                ▼
+Sampler       Estimator
+ │                │
+save_probs     save_expval
+ │                │
+ ▼                ▼
+QuasiDist      ExpValue
+ │                │
+ ▼                ▼
+User           User
