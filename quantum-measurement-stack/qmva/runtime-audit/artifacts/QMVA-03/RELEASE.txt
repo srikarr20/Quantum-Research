@@ -1,0 +1,9 @@
+
+Remote:
+git@github.com:srikarr20/Quantum-Research.git
+
+Commit:
+080888350e35b28abc922ec85eeaa132466dad55
+
+Tag:
+qmva-v0.5
