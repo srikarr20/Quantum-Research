@@ -20,3 +20,4 @@ Supporting Evidence:
 
 - EVIDENCE-012 Detector-Plane Classification Boundary
 
+- EVIDENCE-016 Detector-Plane Entropy Compression (QMVA-03)
