@@ -101,3 +101,32 @@ Runtime
         ↓
     User Result
 
+
+---
+
+### Finding 05
+
+Runtime visibility appears centered on
+primitive-result containers rather than
+direct simulator-state representations.
+
+Observed:
+
+- PrimitiveResult
+- PubResult
+- SamplerPubResult
+- EstimatorPubResult
+- DataBin
+- BitArray
+
+No direct references identified for:
+
+- statevector
+- density_matrix
+
+within the audited Runtime source tree.
+
+Reference:
+
+EVIDENCE-011 Runtime Measurement-Oriented Visibility
+
