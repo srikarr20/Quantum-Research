@@ -1,0 +1,126 @@
+# QMVA-03
+
+## Title
+
+All-Optical Superconducting Qubit Readout Audit
+
+## Dataset
+
+All-Optical Superconducting Qubit Readout
+
+Zenodo:
+https://zenodo.org/records/14033026
+
+## Objective
+
+Determine where information visibility changes
+between detector-plane measurements and
+binary state assignment.
+
+---
+
+## Dataset Structure
+
+Observed detector-plane variables:
+
+- I_g
+- Q_g
+- I_e
+- Q_e
+
+Observed classification variables:
+
+- angle
+- threshold
+
+Observed measurement metrics:
+
+- Pgg
+- Pee
+- QNDFid
+
+---
+
+## Findings
+
+### FINDING-01
+
+Detector-plane measurement coordinates are
+exposed prior to classification.
+
+Evidence:
+
+EVIDENCE-012
+
+50,000 ground-state measurements.
+
+50,000 excited-state measurements.
+
+---
+
+### FINDING-02
+
+An explicit projection boundary exists.
+
+Evidence:
+
+angle = 3.1254224
+
+Detector-plane coordinates are rotated
+into a discrimination basis.
+
+---
+
+### FINDING-03
+
+An explicit classification boundary exists.
+
+Evidence:
+
+threshold = -5.844e-06
+
+Continuous detector-plane coordinates
+are converted into binary state labels.
+
+---
+
+### FINDING-04
+
+Classification introduces measurable
+information reduction.
+
+Measured:
+
+Ground Misclassification = 1.03%
+
+Excited Misclassification = 8.56%
+
+Average Misclassification = 4.797%
+
+---
+
+## Published Metrics
+
+Pgg     = 0.98452
+
+Pee     = 0.84438
+
+QNDFid  = 0.91445
+
+---
+
+## QMVA Interpretation
+
+The detector does not directly produce
+binary outcomes.
+
+Instead the measurement stack produces
+continuous detector-plane coordinates.
+
+Binary outcomes emerge after projection
+and threshold-based classification.
+
+## Supporting Evidence
+
+- EVIDENCE-012
+

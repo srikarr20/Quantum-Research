@@ -9,3 +9,14 @@
 | QMVA-05 | Amazon Braket | Planned |
 
 - EVIDENCE-012 Detector-Plane Classification Boundary (QMVA-03)
+
+## QMVA-03
+
+All-Optical Superconducting Qubit Readout Audit
+
+Status: In Progress
+
+Supporting Evidence:
+
+- EVIDENCE-012 Detector-Plane Classification Boundary
+
