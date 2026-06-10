@@ -146,3 +146,22 @@ Approximately 95.2% of detector-plane
 visibility survives threshold-based
 classification.
 
+
+---
+
+### FINDING-06
+
+A significant abstraction compression boundary
+exists between detector-plane measurements and
+user-visible outcomes.
+
+Evidence:
+
+EVIDENCE-014
+
+Detector-plane data consists of continuous
+IQ coordinates.
+
+User-visible outcomes consist of binary
+state assignments.
+
