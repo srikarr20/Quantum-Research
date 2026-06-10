@@ -115,3 +115,20 @@ This distinction is important when evaluating
 measurement visibility and information accessibility
 within quantum software stacks.
 
+
+---
+
+## Subsequent Findings
+
+Later audits identified additional
+serialization and transport boundaries:
+
+- EVIDENCE-009A PrimitiveResult Serialization
+- EVIDENCE-009B PubResult Serialization
+- EVIDENCE-009C DataBin Serialization
+- EVIDENCE-010 Runtime DataBin Transport
+
+These findings extend the original
+projection and packaging analysis into
+Runtime-mediated execution environments.
+
