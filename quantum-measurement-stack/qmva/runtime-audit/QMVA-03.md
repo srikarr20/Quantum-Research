@@ -124,3 +124,25 @@ and threshold-based classification.
 
 - EVIDENCE-012
 
+
+---
+
+### FINDING-05
+
+Visibility retention remains high after
+classification.
+
+Evidence:
+
+EVIDENCE-013
+
+Measured:
+
+VRI = 0.95203
+
+Interpretation:
+
+Approximately 95.2% of detector-plane
+visibility survives threshold-based
+classification.
+
