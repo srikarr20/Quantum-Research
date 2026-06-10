@@ -2,3 +2,8 @@
 # QMVA audit outputs
 *.txt
 grep*.txt
+
+# Audit source repositories
+qiskit-aer/qiskit-aer/
+runtime-audit/repositories/
+
