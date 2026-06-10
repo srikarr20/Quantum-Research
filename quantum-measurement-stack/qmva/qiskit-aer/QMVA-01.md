@@ -132,3 +132,14 @@ This distinction identifies the first measurement abstraction boundary observed 
 - Audit Estimator primitives
 - Compare simulator visibility versus runtime visibility
 - Define QMVA visibility scoring framework
+
+
+## Figure 1
+
+See:
+
+figures/FIGURE-001-measurement-abstraction-boundary.mmd
+
+This figure illustrates the identified abstraction boundary between backend calibration information and detector-chain provenance representation.
+
+
