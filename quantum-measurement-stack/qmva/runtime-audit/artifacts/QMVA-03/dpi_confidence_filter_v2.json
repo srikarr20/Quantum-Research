@@ -1,0 +1,21 @@
+{
+  "audit": "QMVA-03",
+  "experiment": "DPI Confidence Filter",
+  "ground_sigma": 3.23118847184651e-05,
+  "excited_sigma": 5.5527344529477334e-05,
+  "original": {
+    "ground_error": 0.0103,
+    "excited_error": 0.08564,
+    "total_error": 0.04797
+  },
+  "filtered": {
+    "ground_error": 0.00715763692411638,
+    "excited_error": 0.06289434374512295,
+    "total_error": 0.035025990334619665
+  },
+  "retention": {
+    "ground_kept": 0.94724,
+    "excited_kept": 0.89706,
+    "total_kept": 0.92215
+  }
+}
