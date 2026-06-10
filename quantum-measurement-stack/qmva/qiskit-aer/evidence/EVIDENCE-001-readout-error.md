@@ -39,3 +39,7 @@ Readout Visibility: E3
 Detector Visibility: E0
 
 Detector Chain Visibility: E0
+
+## Notes
+
+This component models the effects of measurement uncertainty but does not expose the physical detector chain responsible for those effects.
