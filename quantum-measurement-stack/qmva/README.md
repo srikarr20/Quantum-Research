@@ -47,3 +47,15 @@ Artifacts:
 - PennyLane
 - Amazon Braket
 
+
+## Archival Record
+
+Zenodo:
+https://zenodo.org/records/20653104
+
+Release:
+qmva-v0.5
+
+Branch:
+qmva03-release
+
