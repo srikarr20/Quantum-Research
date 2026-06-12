@@ -1,0 +1,9 @@
+{
+  "threshold_error": 0.04797,
+  "logistic_error": 0.5,
+  "gmm_error": 0.5,
+  "qmva_error": 0.04797,
+  "logistic_brier": 0.25,
+  "gmm_brier": 0.2517027003751303,
+  "qmva_brier": 0.04236565201248599
+}

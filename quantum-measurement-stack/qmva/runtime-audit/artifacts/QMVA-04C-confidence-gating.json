@@ -1,0 +1,23 @@
+[
+  {
+    "z_cut": 0.0,
+    "ground_error": 0.0103,
+    "excited_error": 0.08564,
+    "total_error": 0.04797,
+    "retention": 1.0
+  },
+  {
+    "z_cut": 1.0,
+    "ground_error": 0.00715763692411638,
+    "excited_error": 0.06289434374512295,
+    "total_error": 0.035025990334619665,
+    "retention": 0.92215
+  },
+  {
+    "z_cut": 2.0,
+    "ground_error": 0.008299835160068249,
+    "excited_error": 0.027752620002587658,
+    "total_error": 0.018026227581327953,
+    "retention": 0.50037
+  }
+]
