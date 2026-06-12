@@ -1,0 +1,79 @@
+[
+  {
+    "mixture": 0,
+    "entropy_original": 7.6242477001623,
+    "entropy_reconstructed": 7.643969248762055,
+    "entropy_retention": 1.0025866878117475,
+    "mse": 0.0013780980501495537
+  },
+  {
+    "mixture": 1,
+    "entropy_original": 7.628259270702098,
+    "entropy_reconstructed": 7.643837968474873,
+    "entropy_retention": 1.0020422349608131,
+    "mse": 0.0011117499408507866
+  },
+  {
+    "mixture": 2,
+    "entropy_original": 7.631099271690664,
+    "entropy_reconstructed": 7.6424022278423624,
+    "entropy_retention": 1.0014811701105277,
+    "mse": 0.0008555845940862517
+  },
+  {
+    "mixture": 3,
+    "entropy_original": 7.633064818656268,
+    "entropy_reconstructed": 7.642292061413555,
+    "entropy_retention": 1.0012088516181252,
+    "mse": 0.0006297026801961431
+  },
+  {
+    "mixture": 4,
+    "entropy_original": 7.634225016317247,
+    "entropy_reconstructed": 7.642292061413555,
+    "entropy_retention": 1.0010566946977677,
+    "mse": 0.00048570560988364273
+  },
+  {
+    "mixture": 5,
+    "entropy_original": 7.6346089412915035,
+    "entropy_reconstructed": 7.642292061413555,
+    "entropy_retention": 1.0010063541146814,
+    "mse": 0.00043770658644614295
+  },
+  {
+    "mixture": 6,
+    "entropy_original": 7.634225016317247,
+    "entropy_reconstructed": 7.642292061413555,
+    "entropy_retention": 1.0010566946977677,
+    "mse": 0.00048570560988364284
+  },
+  {
+    "mixture": 7,
+    "entropy_original": 7.633064818656267,
+    "entropy_reconstructed": 7.642292061413555,
+    "entropy_retention": 1.0012088516181252,
+    "mse": 0.0006297026801961431
+  },
+  {
+    "mixture": 8,
+    "entropy_original": 7.631099271690663,
+    "entropy_reconstructed": 7.6424022278423624,
+    "entropy_retention": 1.001481170110528,
+    "mse": 0.0008555845940862517
+  },
+  {
+    "mixture": 9,
+    "entropy_original": 7.628259270702099,
+    "entropy_reconstructed": 7.643837968474873,
+    "entropy_retention": 1.0020422349608131,
+    "mse": 0.0011117499408507866
+  },
+  {
+    "mixture": 10,
+    "entropy_original": 7.624247700162299,
+    "entropy_reconstructed": 7.643969248762054,
+    "entropy_retention": 1.0025866878117475,
+    "mse": 0.0013780980501495537
+  }
+]

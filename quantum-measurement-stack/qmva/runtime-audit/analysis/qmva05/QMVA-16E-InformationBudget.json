@@ -1,0 +1,11 @@
+{
+  "detector_shape": [
+    11,
+    100,
+    64,
+    64
+  ],
+  "detector_values": 4505600,
+  "daq_values": 200000,
+  "information_ratio": 22.528
+}

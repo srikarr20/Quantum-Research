@@ -1,0 +1,47 @@
+[
+  {
+    "ground_fraction": 1.0,
+    "dataset_x": 8.810051687061787e-05,
+    "dataset_y": -0.00026914966106414797,
+    "dataset_entropy": 3.760779766697185,
+    "detector_x": 32.87304,
+    "detector_y": 41.82618,
+    "detector_entropy": 6.43137409981539
+  },
+  {
+    "ground_fraction": 0.75,
+    "dataset_x": 4.7994679883122445e-05,
+    "dataset_y": -0.0002697280427068472,
+    "dataset_entropy": 4.171637488212138,
+    "detector_x": 32.73156,
+    "detector_y": 39.59314,
+    "detector_entropy": 6.834492905607364
+  },
+  {
+    "ground_fraction": 0.5,
+    "dataset_x": 7.557591646909714e-06,
+    "dataset_y": -0.00027047963008284566,
+    "dataset_entropy": 4.301148880719294,
+    "detector_x": 32.54568,
+    "detector_y": 32.24492,
+    "detector_entropy": 6.964908804589624
+  },
+  {
+    "ground_fraction": 0.25,
+    "dataset_x": -3.2567932605743406e-05,
+    "dataset_y": -0.00027107765935361386,
+    "dataset_entropy": 4.281040830965132,
+    "detector_x": 33.25274,
+    "detector_y": 27.25254,
+    "detector_entropy": 6.963976926595148
+  },
+  {
+    "ground_fraction": 0.0,
+    "dataset_x": -7.304541014134884e-05,
+    "dataset_y": -0.00027175565883517266,
+    "dataset_entropy": 3.9586889773211933,
+    "detector_x": 29.95834,
+    "detector_y": 20.8634,
+    "detector_entropy": 6.737469502095314
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "true_ground": 0.07,
+    "predicted_ground": 0.05102741763137941
+  },
+  {
+    "true_ground": 0.13,
+    "predicted_ground": 0.09747844525052196
+  },
+  {
+    "true_ground": 0.22,
+    "predicted_ground": 0.19945527615019554
+  },
+  {
+    "true_ground": 0.41,
+    "predicted_ground": 0.40017477846064686
+  },
+  {
+    "true_ground": 0.58,
+    "predicted_ground": 0.5325649518891795
+  },
+  {
+    "true_ground": 0.73,
+    "predicted_ground": 0.6781879734973604
+  },
+  {
+    "true_ground": 0.91,
+    "predicted_ground": 0.8866277271440304
+  }
+]

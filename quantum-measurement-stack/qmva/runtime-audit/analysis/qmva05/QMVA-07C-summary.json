@@ -1,0 +1,57 @@
+[
+  {
+    "ground_fraction": 0.0,
+    "centroid_x": 31.58438,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.1,
+    "centroid_x": 31.567504000000003,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.2,
+    "centroid_x": 31.550627999999993,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.30000000000000004,
+    "centroid_x": 31.533752000000007,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.4,
+    "centroid_x": 31.516875999999996,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.5,
+    "centroid_x": 31.5,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.6000000000000001,
+    "centroid_x": 31.483124000000004,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.7000000000000001,
+    "centroid_x": 31.466247999999993,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.8,
+    "centroid_x": 31.44937200000001,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 0.9,
+    "centroid_x": 31.432495999999997,
+    "centroid_y": 31.65988
+  },
+  {
+    "ground_fraction": 1.0,
+    "centroid_x": 31.41562,
+    "centroid_y": 31.65988
+  }
+]

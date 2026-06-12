@@ -1,0 +1,25 @@
+{
+  "training_r2": 0.9898206397590275,
+  "predictions": [
+    {
+      "detector_y": 24.7,
+      "predicted_ground_fraction": 0.15035346001686212
+    },
+    {
+      "detector_y": 27.5,
+      "predicted_ground_fraction": 0.28041521643571055
+    },
+    {
+      "detector_y": 31.5,
+      "predicted_ground_fraction": 0.466217725605494
+    },
+    {
+      "detector_y": 35.1,
+      "predicted_ground_fraction": 0.6334399838582989
+    },
+    {
+      "detector_y": 38.2,
+      "predicted_ground_fraction": 0.7774369284648812
+    }
+  ]
+}

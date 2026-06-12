@@ -1,0 +1,32 @@
+[
+  {
+    "mixture": "100G",
+    "ground_fraction": 1.0,
+    "centroid_I": 8.810051687061787e-05,
+    "centroid_Q": -0.00026914966106414797
+  },
+  {
+    "mixture": "75G25E",
+    "ground_fraction": 0.75,
+    "centroid_I": 4.797537960112095e-05,
+    "centroid_Q": -0.0002696024417877197
+  },
+  {
+    "mixture": "50G50E",
+    "ground_fraction": 0.5,
+    "centroid_I": 7.570840045809746e-06,
+    "centroid_Q": -0.00027032806269824505
+  },
+  {
+    "mixture": "25G75E",
+    "ground_fraction": 0.25,
+    "centroid_I": -3.293047368526459e-05,
+    "centroid_Q": -0.0002711833067983389
+  },
+  {
+    "mixture": "100E",
+    "ground_fraction": 0.0,
+    "centroid_I": -7.304541014134884e-05,
+    "centroid_Q": -0.00027175565883517266
+  }
+]

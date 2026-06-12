@@ -1,0 +1,32 @@
+[
+  {
+    "mixture": "100G",
+    "fraction": 1.0,
+    "centroid_x": 31.026,
+    "centroid_y": 20.127
+  },
+  {
+    "mixture": "75G25E",
+    "fraction": 0.75,
+    "centroid_x": 30.639,
+    "centroid_y": 26.20075
+  },
+  {
+    "mixture": "50G50E",
+    "fraction": 0.5,
+    "centroid_x": 30.252,
+    "centroid_y": 32.2745
+  },
+  {
+    "mixture": "25G75E",
+    "fraction": 0.25,
+    "centroid_x": 29.865,
+    "centroid_y": 38.34825
+  },
+  {
+    "mixture": "100E",
+    "fraction": 0.0,
+    "centroid_x": 29.478,
+    "centroid_y": 44.422
+  }
+]

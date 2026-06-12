@@ -1,0 +1,9 @@
+{
+  "upper_fraction": 0.5,
+  "lower_fraction": 0.5,
+  "switch_count": 1,
+  "mean_dwell_time": 50.0,
+  "median_dwell_time": 50.0,
+  "max_dwell_time": 50,
+  "num_segments": 2
+}

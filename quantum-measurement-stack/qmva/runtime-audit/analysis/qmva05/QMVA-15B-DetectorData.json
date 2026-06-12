@@ -1,0 +1,30 @@
+[
+  {
+    "true_ground": 0.07,
+    "detector_y": 22.561685661204493
+  },
+  {
+    "true_ground": 0.13,
+    "detector_y": 23.561694279531523
+  },
+  {
+    "true_ground": 0.22,
+    "detector_y": 25.757075415240273
+  },
+  {
+    "true_ground": 0.41,
+    "detector_y": 30.078211942563208
+  },
+  {
+    "true_ground": 0.58,
+    "detector_y": 32.92833865011066
+  },
+  {
+    "true_ground": 0.73,
+    "detector_y": 36.06334521722032
+  },
+  {
+    "true_ground": 0.91,
+    "detector_y": 40.55068512620295
+  }
+]

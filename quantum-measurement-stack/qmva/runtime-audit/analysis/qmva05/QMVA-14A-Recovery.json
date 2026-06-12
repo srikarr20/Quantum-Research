@@ -1,0 +1,30 @@
+[
+  {
+    "detector_y": 22.5,
+    "predicted_ground": 0.04816207997348143
+  },
+  {
+    "detector_y": 24.8,
+    "predicted_ground": 0.15499852274610681
+  },
+  {
+    "detector_y": 27.1,
+    "predicted_ground": 0.2618349655187322
+  },
+  {
+    "detector_y": 30.7,
+    "predicted_ground": 0.4290572237715373
+  },
+  {
+    "detector_y": 34.2,
+    "predicted_ground": 0.5916344192950977
+  },
+  {
+    "detector_y": 38.1,
+    "predicted_ground": 0.7727918657356365
+  },
+  {
+    "detector_y": 41.0,
+    "predicted_ground": 0.9074986848837294
+  }
+]
