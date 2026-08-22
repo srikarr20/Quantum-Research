@@ -107,3 +107,14 @@ Current release:
 v2.0.0 — Field-First Research Portfolio
 
 This release represents the first portfolio-wide Field-First consolidation across publications, benchmarks, repositories, and supporting research artifacts.
+
+## Archived release
+
+The QMS-integrated Quantum-Research release is permanently archived on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22057237.svg)](https://doi.org/10.5281/zenodo.22057237)
+
+**Release:** `quantum-research-qms-v0.2.0`  
+**DOI:** `10.5281/zenodo.22057237`
+
+This archived release preserves the exact research state containing the QMS Platform `v0.2.0-paper1` snapshot under `programs/qms-platform/`.
