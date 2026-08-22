@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite the archived Quantum-Research release."
+title: "Quantum-Research: Measurement, Observability, Reconstruction, and Quantum Systems Research"
+date-released: "2026-08-22"
+authors:
+  - family-names: "R"
+    given-names: "Srikar"
+    orcid: "https://orcid.org/0009-0002-9398-0847"
+    affiliation: "Independent Research"
+repository-code: "https://github.com/srikarr20/Quantum-Research"
+keywords:
+  - quantum measurement
+  - quantum observability
+  - quantum state reconstruction
+  - quantum tomography
+  - detector-plane imaging
+  - quantum measurement assurance
+  - quantum systems

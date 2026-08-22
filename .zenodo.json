@@ -1,0 +1,22 @@
+{
+  "title": "Quantum-Research: Measurement, Observability, Reconstruction, and Quantum Systems Research",
+  "description": "Integrated research repository covering quantum measurement, detector-plane observability, reconstruction assurance, quantum measurement validation, measurement digital twins, and related quantum-systems investigations. This release includes the frozen QMS Platform v0.2.0-paper1 research snapshot under programs/qms-platform together with the broader Quantum-Research framework.",
+  "creators": [
+    {
+      "name": "R, Srikar",
+      "orcid": "0009-0002-9398-0847",
+      "affiliation": "Independent Research"
+    }
+  ],
+  "keywords": [
+    "quantum measurement",
+    "quantum observability",
+    "quantum state reconstruction",
+    "quantum tomography",
+    "detector-plane imaging",
+    "quantum measurement assurance",
+    "quantum systems"
+  ],
+  "access_right": "open",
+  "upload_type": "software"
+}
